@@ -46,7 +46,7 @@ ScrollReveal().reveal('.home-content,.heading', { origin: 'top' });
 
 const typed = new Typed('.multiple-text',
     {
-        strings:['MERN Stack Developer','Full Stack Developer'],
+        strings:['Full Stack Developer','BackEnd Devloper','MERN Stack Devloper'],
         typeSpeed:100,
         backSpeed:100,
         backDelay:1000,
